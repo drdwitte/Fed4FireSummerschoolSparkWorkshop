@@ -1,6 +1,8 @@
 # Fed4FireSummerschoolSparkWorkshop
 
 We have a list of linux VMs on the Virtual Wall, one per participant:
+
+
 | ID | pass | ssh |
 |--|:--:|--:|
 | 1 | GL4wbvmE |		ssh mmlab@193.190.127.168 |
